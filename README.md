@@ -16,7 +16,3 @@
 <p align="left">
   <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ralfrtl&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
-
- **<h3 align="left">Support Me</h3>**
-
-<p align="left"><a href="https://paypal.me/ralfrtl" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="32" style="margin-right: 4px"></a></p>
